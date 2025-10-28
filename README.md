@@ -10,7 +10,7 @@
 - 👯 Looking to collaborate on **Full Stack + AI projects**  
 - 💬 Ask me about **React, Node.js, MongoDB, REST APIs, and Prompt Engineering**  
 - 📫 Reach me at **agourav311@gmail.com**  
-- 📄 [View My Resume](https://drive.google.com/file/d/12RdsY8r5ou5qH5NQVAyqEE3_a51Vkp5a/view?usp=sharing)
+- 📄 [View My Resume](https://drive.google.com/file/d/1-a0B5MTSG9Xp3FJZZFkGT7WMqRwK6cL1/view?usp=drive_link)
 
 ---
 
