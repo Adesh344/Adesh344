@@ -43,60 +43,63 @@ Realtime group and private chat app using Socket.io + MongoDB with file sharing 
 
 ### 🛠️ Tech Stack
 
-<div style="background-color:white; padding:15px; border-radius:10px;">
-
 #### ⚛️ Frontend
 <p align="left">
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-<a href="https://mui.com/" target="_blank" rel="noreferrer"> <img src="https://mui.com/static/logo.png" alt="mui" width="40" height="40"/> </a>
-<a href="https://framer.com/motion/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer-motion" width="40" height="40"/> </a>
+<a href="https://reactjs.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=react" width="40" height="40"/> </a>
+<a href="https://nextjs.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40"/> </a>
+<a href="https://redux.js.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=redux" width="40" height="40"/> </a>
+<a href="https://tailwindcss.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40"/> </a>
+<a href="https://getbootstrap.com" target="_blank"> <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40"/> </a>
+<a href="https://mui.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=materialui" width="40" height="40"/> </a>
+<a href="https://framer.com/motion/" target="_blank"> <img src="https://skillicons.dev/icons?i=framer" width="40" height="40"/> </a>
 </p>
 
 #### ⚙️ Backend
 <p align="left">
-<a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-<a href="https://socket.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" alt="socket.io" width="40" height="40"/> </a>
-<a href="https://graphql.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a>
-<a href="https://jwt.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jsonwebtoken/jsonwebtoken-icon.svg" alt="jwt" width="40" height="40"/> </a>
+<a href="https://nodejs.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40"/> </a>
+<a href="https://expressjs.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=express" width="40" height="40"/> </a>
+<!-- Custom high-contrast Socket.io -->
+<a href="https://socket.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Socket-io.svg" width="40" height="40" style="background:white; border-radius:5px; padding:3px;"/> </a>
+<a href="https://graphql.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=graphql" width="40" height="40"/> </a>
+<a href="https://jwt.io/" target="_blank"> <img src="https://skillicons.dev/icons?i=jwt" width="40" height="40"/> </a>
 </p>
 
 #### 🧩 Databases
 <p align="left">
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.snowflake.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="snowflake" width="40" height="40"/> </a>
-<a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
+<a href="https://mongodb.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40"/> </a>
+<a href="https://postgresql.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40"/> </a>
+<a href="https://mysql.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40"/> </a>
+<a href="https://snowflake.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" width="40" height="40"/> </a>
+<a href="https://redis.io/" target="_blank"> <img src="https://skillicons.dev/icons?i=redis" width="40" height="40"/> </a>
 </p>
 
 #### ☁️ Cloud & DevOps
 <p align="left">
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="aws" width="40" height="40"/> </a>
-<a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="vercel" width="40" height="40"/> </a>
-<a href="https://render.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/render/render-icon.svg" alt="render" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://nginx.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
-<a href="https://cloudflare.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" alt="cloudflare" width="40" height="40"/> </a>
+<a href="https://aws.amazon.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=aws" width="40" height="40"/> </a>
+<a href="https://vercel.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=vercel" width="40" height="40"/> </a>
+<!-- Render custom light icon -->
+<a href="https://render.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/render/render-icon.svg" width="40" height="40" style="background:white; border-radius:5px; padding:3px;"/> </a>
+<a href="https://docker.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=docker" width="40" height="40"/> </a>
+<a href="https://nginx.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=nginx" width="40" height="40"/> </a>
+<a href="https://cloudflare.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=cloudflare" width="40" height="40"/> </a>
 </p>
 
 #### 🤖 AI, Tools & Languages
 <p align="left">
-<a href="https://openai.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" alt="openai" width="40" height="40"/> </a>
-<a href="https://figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-<a href="https://postman.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a>
-<a href="https://linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://java.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+<!-- Custom OpenAI icon with white bg -->
+<a href="https://openai.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" width="40" height="40" style="background:white; border-radius:5px; padding:3px;"/> </a>
+<a href="https://figma.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=figma" width="40" height="40"/> </a>
+<a href="https://postman.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=postman" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=git" width="40" height="40"/> </a>
+<a href="https://github.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=github" width="40" height="40"/> </a>
+<a href="https://linux.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=linux" width="40" height="40"/> </a>
+<a href="https://python.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=python" width="40" height="40"/> </a>
+<a href="https://java.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=java" width="40" height="40"/> </a>
+<a href="https://javascript.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=javascript" width="40" height="40"/> </a>
+<a href="https://typescriptlang.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=typescript" width="40" height="40"/> </a>
 </p>
 
-</div>
+
 
 ---
 
