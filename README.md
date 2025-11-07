@@ -40,7 +40,10 @@ Realtime group and private chat app using Socket.io + MongoDB with file sharing 
 
 ---
 
+
 ### 🛠️ Tech Stack
+
+<div style="background-color:white; padding:15px; border-radius:10px;">
 
 #### ⚛️ Frontend
 <p align="left">
@@ -92,6 +95,8 @@ Realtime group and private chat app using Socket.io + MongoDB with file sharing 
 <a href="https://python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://java.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 </p>
+
+</div>
 
 ---
 
