@@ -18,7 +18,7 @@
 - 🌱 Exploring **LangChain, Gemini API, and Cloud scaling (AWS, Render, Vercel)**
 - 💬 Talk to me about **React, Node.js, MongoDB, REST APIs, Prompt Engineering**
 - 🧩 Working on **AI-integrated SaaS apps** with advanced authentication and payment flows
-- 📄 [View My Resume](https://drive.google.com/file/d/1-a0B5MTSG9Xp3FJZZFkGT7WMqRwK6cL1/view?usp=drive_link)
+- 📄 [View My Resume](https://drive.google.com/file/d/1nVi4LobHK6tLJmwfk_-wvMNCIjYReBCJ/view?usp=drive_link)
 
 ---
 
